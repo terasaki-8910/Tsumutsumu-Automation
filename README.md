@@ -7,6 +7,7 @@
 </dl>
 
 ### 動作確認
+セレクトボックス自動開封
 https://youtu.be/FmIFRGIV9rU
 
 ### 参考サイト
